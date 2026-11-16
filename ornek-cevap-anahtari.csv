@@ -1,0 +1,121 @@
+Soru;Ders;Konu;Cevap
+1;Türkçe;Paragraf;C
+2;Türkçe;Paragraf;D
+3;Türkçe;Paragraf;C
+4;Türkçe;Paragraf;C
+5;Türkçe;Paragraf;C
+6;Türkçe;Paragraf;B
+7;Türkçe;Paragraf;D
+8;Türkçe;Paragraf;A
+9;Türkçe;Paragraf;E
+10;Türkçe;Paragraf;A
+11;Türkçe;Paragraf;D
+12;Türkçe;Paragraf;C
+13;Türkçe;Paragraf;C
+14;Türkçe;Paragraf;A
+15;Türkçe;Paragraf;B
+16;Türkçe;Paragraf;E
+17;Türkçe;Paragraf;E
+18;Türkçe;Paragraf;C
+19;Türkçe;Paragraf;D
+20;Türkçe;Paragraf;E
+21;Türkçe;Paragraf;A
+22;Türkçe;Paragraf;E
+23;Türkçe;Sözcükte Anlam;D
+24;Türkçe;Sözcükte Anlam;A
+25;Türkçe;Sözcükte Anlam;E
+26;Türkçe;Sözcükte Anlam;E
+27;Türkçe;Cümlede Anlam;D
+28;Türkçe;Cümlede Anlam;D
+29;Türkçe;Cümlede Anlam;D
+30;Türkçe;Cümlede Anlam;B
+31;Türkçe;Ses Bilgisi;B
+32;Türkçe;Ses Bilgisi;A
+33;Türkçe;Yazım Kuralları;A
+34;Türkçe;Yazım Kuralları;B
+35;Türkçe;Yazım Kuralları;B
+36;Türkçe;Noktalama;A
+37;Türkçe;Noktalama;C
+38;Türkçe;Dil Bilgisi;A
+39;Türkçe;Dil Bilgisi;D
+40;Türkçe;Dil Bilgisi;E
+41;Sosyal;Osmanlı Tarihi;A
+42;Sosyal;Osmanlı Tarihi;C
+43;Sosyal;Osmanlı Tarihi;A
+44;Sosyal;İnkılap Tarihi;E
+45;Sosyal;İnkılap Tarihi;C
+46;Sosyal;Doğa ve İnsan;B
+47;Sosyal;Doğa ve İnsan;E
+48;Sosyal;Doğa ve İnsan;B
+49;Sosyal;Nüfus ve Yerleşme;C
+50;Sosyal;Nüfus ve Yerleşme;D
+51;Sosyal;Felsefe;E
+52;Sosyal;Felsefe;D
+53;Sosyal;Felsefe;A
+54;Sosyal;Felsefe;A
+55;Sosyal;Felsefe;A
+56;Sosyal;Din Kültürü;B
+57;Sosyal;Din Kültürü;D
+58;Sosyal;Din Kültürü;E
+59;Sosyal;Din Kültürü;A
+60;Sosyal;Din Kültürü;E
+61;Matematik;Temel Kavramlar;A
+62;Matematik;Temel Kavramlar;A
+63;Matematik;Temel Kavramlar;C
+64;Matematik;Temel Kavramlar;D
+65;Matematik;Sayı Basamakları;C
+66;Matematik;Sayı Basamakları;A
+67;Matematik;Rasyonel Sayılar;B
+68;Matematik;Rasyonel Sayılar;C
+69;Matematik;Üslü ve Köklü Sayılar;E
+70;Matematik;Üslü ve Köklü Sayılar;D
+71;Matematik;Üslü ve Köklü Sayılar;C
+72;Matematik;Denklemler;A
+73;Matematik;Denklemler;A
+74;Matematik;Denklemler;A
+75;Matematik;Problemler;D
+76;Matematik;Problemler;E
+77;Matematik;Problemler;D
+78;Matematik;Problemler;C
+79;Matematik;Problemler;E
+80;Matematik;Problemler;E
+81;Matematik;Problemler;C
+82;Matematik;Problemler;A
+83;Matematik;Problemler;A
+84;Matematik;Problemler;E
+85;Matematik;Fonksiyonlar;A
+86;Matematik;Fonksiyonlar;B
+87;Matematik;Fonksiyonlar;C
+88;Matematik;Olasılık;C
+89;Matematik;Olasılık;B
+90;Matematik;Veri ve İstatistik;B
+91;Matematik;Üçgenler;D
+92;Matematik;Üçgenler;A
+93;Matematik;Üçgenler;E
+94;Matematik;Üçgenler;D
+95;Matematik;Çokgenler;E
+96;Matematik;Çokgenler;D
+97;Matematik;Çokgenler;B
+98;Matematik;Katı Cisimler;C
+99;Matematik;Katı Cisimler;C
+100;Matematik;Analitik Geometri;B
+101;Fen;Kuvvet ve Hareket;B
+102;Fen;Kuvvet ve Hareket;D
+103;Fen;Kuvvet ve Hareket;B
+104;Fen;Elektrik;D
+105;Fen;Elektrik;E
+106;Fen;Optik;B
+107;Fen;Optik;D
+108;Fen;Atom ve Periyodik Sistem;C
+109;Fen;Atom ve Periyodik Sistem;A
+110;Fen;Atom ve Periyodik Sistem;B
+111;Fen;Kimyasal Tepkimeler;B
+112;Fen;Kimyasal Tepkimeler;E
+113;Fen;Karışımlar;E
+114;Fen;Karışımlar;A
+115;Fen;Hücre;D
+116;Fen;Hücre;E
+117;Fen;Kalıtım;C
+118;Fen;Kalıtım;B
+119;Fen;Ekosistem;D
+120;Fen;Ekosistem;C
